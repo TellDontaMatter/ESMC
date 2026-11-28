@@ -1,17 +1,31 @@
 [
   {
-    "date": "Sat, Nov 21",
-    "time": "9:30 AM",
-    "name": "Motorcycle Toy Parade",
-    "place": "Severna Park, MD",
-    "link": "https://www.facebook.com/events/1898170834880793/"
-  },
-  {
     "date": "Sat, Nov 28",
     "time": "11:00 AM",
     "name": "Chrome for Christmas",
     "place": "Gettysburg, PA",
     "link": "https://www.facebook.com/events/1376012374640519/"
+  },
+  {
+    "date": "Mon, Nov 30",
+    "time": "6:00 PM",
+    "name": "Bike Night Chili Cook-off",
+    "place": "Havre de Grace, MD",
+    "link": "https://www.facebook.com/events/992847450559827/"
+  },
+  {
+    "date": "Thu, Dec 3",
+    "time": "6:00 PM",
+    "name": "Bike Night @ Liberty Tavern",
+    "place": "Liberty, NC",
+    "link": "https://www.facebook.com/events/917343068090972/"
+  },
+  {
+    "date": "Fri, Dec 4",
+    "time": "6:00 PM",
+    "name": "Holly Jolly Bike Night",
+    "place": "Randleman, NC",
+    "link": "https://www.facebook.com/events/1462868919372575/"
   },
   {
     "date": "Sat, Dec 5",
@@ -35,6 +49,27 @@
     "link": "https://www.facebook.com/events/1123655197114198/"
   },
   {
+    "date": "Wed, Dec 9",
+    "time": "6:00 PM",
+    "name": "Bike Night - Lincolnton NC",
+    "place": "Miami Fusion Café, Lincolnton, NC",
+    "link": "https://www.facebook.com/events/1802761687684686/"
+  },
+  {
+    "date": "Thu, Dec 10",
+    "time": "6:00 PM",
+    "name": "Bike Night",
+    "place": "East Coast Wings + Grill, Goldsboro, NC",
+    "link": "https://www.facebook.com/events/1529546841631254/"
+  },
+  {
+    "date": "Sat, Dec 12",
+    "time": "9:00 AM reg / 10:00 AM KSU",
+    "name": "Ride For The Kids: Charity Motorcycle Ride",
+    "place": "Brent Adams & Associates, Dunn, NC",
+    "link": "https://www.facebook.com/events/3164114760587389/"
+  },
+  {
     "date": "Sat, Dec 12",
     "time": "10:00 AM – 8:00 PM",
     "name": "Maryland International Motorcycle Show & Swap Meet",
@@ -47,6 +82,20 @@
     "name": "BCTR Motorcycle Races",
     "place": "Timonium, MD",
     "link": "https://www.facebook.com/events/1021010861027469/"
+  },
+  {
+    "date": "Thu, Dec 17",
+    "time": "6:00 PM",
+    "name": "Bike Night @ Liberty Tavern",
+    "place": "Liberty, NC",
+    "link": "https://www.facebook.com/events/888166967432967/"
+  },
+  {
+    "date": "Thu, Dec 17",
+    "time": "6:30 PM",
+    "name": "December Bike Night @ American Legion Post 166",
+    "place": "Goose Creek, SC",
+    "link": "https://www.facebook.com/events/1129574363039164/"
   },
   {
     "date": "Sat, Dec 19",
